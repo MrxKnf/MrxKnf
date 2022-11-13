@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MrxKnf
+- 👀 I’m interested in software engineering and web development.
+- 🌱 I’m currently learning JavaScript and Java.
+- 📖 I'm finishing the highschool and I want to become a full stack developer in the future.
