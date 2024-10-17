@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @MrxKnf
-- 👀 I’m interested in software engineering and web development.
-- 🌱 I’m currently learning JavaScript and Java.
-- 📖 I'm finishing the highschool and I want to become a full stack developer in the future.
+- 👀 I’m interested in software engineering and low level programming.
+- 🌱 I’m currently learning Java, but i would want to learn languages like C, C++ or Rust.
+- 📖 I'm finishing Microcomputer Systems and Networks, and I want to become a software engineer at a big tech company.
